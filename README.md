@@ -1,9 +1,8 @@
 # 💫 About Me
 
-Computer Science student focused on Python development and database systems, with a growing interest in Artificial Intelligence, especially Machine Learning (ML) and Deep Learning (DL) with Python.
+Computer Science student focused on Python development | AI Engineering and Data Analysis | SQL Server | Django
 
-Currently concentrating on web application development with Django, as well as database implementation and design.
-
+Currently focused on an AI engineering course, web application development with Django, as well as database implementation and design.
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AradJafari)
