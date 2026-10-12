@@ -29,7 +29,7 @@ Currently concentrating on web application development with Django, as well as d
 
 ## 📈 GitHub Activity Graph
 
-![Arad's GitHub Activity Graph](./activity-graph.svg)
+![Arad's GitHub Activity Graph](https://raw.githubusercontent.com/Arad-Jafari/arad-jafari/main/activity-graph.svg)
 
 ## ⚡ Recent GitHub Activity
 
@@ -38,6 +38,4 @@ Currently concentrating on web application development with Django, as well as d
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=arad-jafari&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://visitcount.itsvg.in/api?id=arad-jafari&icon=5&color=0)
