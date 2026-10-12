@@ -1,8 +1,10 @@
+
 # 💫 About Me
 
-Computer Science student focused on Python development | AI Engineering and Data Analysis | SQL Server | Django
+Computer Science student focused on Python development and database systems, with a growing interest in Artificial Intelligence, especially Machine Learning (ML) and Deep Learning (DL) with Python.
 
-Currently focused on an AI engineering course, web application development with Django, as well as database implementation and design.
+Currently concentrating on web application development with Django, as well as database implementation and design.
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AradJafari)
@@ -27,14 +29,12 @@ Currently focused on an AI engineering course, web application development with 
 
 ## 📈 GitHub Activity Graph
 
-[![Arad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arad-jafari&theme=github-compact&hide_border=true)](https://github.com/arad-jafari)
+![Arad's GitHub Activity Graph](./activity-graph.svg)
 
 ## ⚡ Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-*Recent activity can be added automatically using a GitHub Actions workflow.*
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ---
 
