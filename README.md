@@ -1,76 +1,87 @@
-# Hi, I'm Arad Jafari 👋
+<!--
+  Arad Jafari | GitHub Profile README
+  Repository: arad-jafari/arad-jafari
+-->
 
-### Computer Science Student | Python Developer | AI & Data Enthusiast
+<div align="center">
 
-I'm a Computer Science student passionate about building practical software solutions, developing web applications, and exploring Artificial Intelligence and Data Analysis.
+# ARAD JAFARI
 
-- 🐍 **Python Development:** Writing clean, maintainable, and efficient code.
-- 🤖 **AI Engineering:** Exploring AI concepts, tools, and practical applications.
-- 🌐 **Web Development:** Building web applications with Django.
-- 🗄️ **Database Engineering:** Designing and working with relational databases.
-- 📚 **Currently Learning:** AI Engineering, Django, and database design.
+### Computer Science Student · Python Developer · AI Enthusiast
+
+**Building practical software. Exploring intelligent systems. Learning by creating.**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aradjafari/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:aradjafari07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 
 ---
 
-### 🌐 Connect With Me
+## `$ whoami`
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aradjafari/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:aradjafari07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+I'm a Computer Science student interested in Python development, Artificial Intelligence, data analysis, and backend engineering.
 
----
+Currently, I'm expanding my skills through hands-on learning and projects involving AI engineering, Django web applications, and relational database design.
 
-### 🛠️ Tech Stack
+- 🐍 Writing Python and developing backend applications.
+- 🤖 Exploring AI engineering and data-driven solutions.
+- 🌐 Building web applications with Django.
+- 🗄️ Designing relational databases and writing SQL queries.
+- 📈 Improving my problem-solving and software engineering skills.
 
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
-
-**Web Development**
-<br/>
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-**Databases**
-<br/>
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Data Analysis & Computer Vision**
-<br/>
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Tools & Platforms**
-<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Current focus:** Turning what I learn into practical, well-structured projects.
 
 ---
 
-### 📊 GitHub Analytics
+## ⚙️ Technical Skills
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arad-jafari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Arad's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arad-jafari&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arad-jafari&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="48" alt="SQL and MySQL"/>
+
+### Backend Development
+<img src="https://skillicons.dev/icons?i=django" height="48" alt="Django"/>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" height="48" alt="MySQL, PostgreSQL, SQLite"/>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="26" alt="Microsoft SQL Server"/>
+
+### Data Analysis & Computer Vision
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="26" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="26" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" height="26" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" height="26" alt="OpenCV"/>
+
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" height="48" alt="Git, GitHub, Docker, VS Code"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Learning continuously. Building consistently. Improving every day.</i>
-</p>
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/arad-jafari?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
+</a>
+
+</div>
+
+I'm building my portfolio around Python development, backend engineering, database systems, and AI-related projects.
+
+> **Want to collaborate?** I'm interested in practical software projects, AI applications, and opportunities to learn from other developers.
+
+---
+
+## 📊 GitHub Overview
